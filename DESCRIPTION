@@ -1,11 +1,10 @@
 Package: Either
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: The 'Either' Type
+Version: 0.0.0.9000
 Author: Stéphane Laurent
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Provides the 'Either' type as a 'R6' class. The 'Either' type represents values with two possibilities: a 'Left' value or a 'Right' value.
 License: GPL-3
 Encoding: UTF-8
 Imports: R6, maybe
